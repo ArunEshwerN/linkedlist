@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunEshwerN/linkedlist/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 # Two Pointers
 |  |
@@ -42,3 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ArunEshwerN/linkedlist/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
+# Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
