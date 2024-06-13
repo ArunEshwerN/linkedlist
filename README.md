@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunEshwerN/linkedlist/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/ArunEshwerN/linkedlist/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/ArunEshwerN/linkedlist/tree/master/0162-find-peak-element) |
 # Binary Search
 |  |
@@ -42,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ArunEshwerN/linkedlist/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ArunEshwerN/linkedlist/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
 # Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ArunEshwerN/linkedlist/tree/master/0078-subsets) |
