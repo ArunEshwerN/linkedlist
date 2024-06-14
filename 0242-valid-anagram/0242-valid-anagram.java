@@ -40,10 +40,14 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < s.length(); i++) {
-            if (!map2.containsKey(s.charAt(i))) {
-                return false;
-            }
+        // for (int i = 0; i < s.length(); i++) {
+        //     if (!map2.containsKey(s.charAt(i))) {
+        //         return false;
+        //     }
+        // }
+
+        if (s.length() != t.length()){
+            return false;
         }
 
         return true;
