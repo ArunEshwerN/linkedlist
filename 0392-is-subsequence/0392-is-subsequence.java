@@ -14,7 +14,11 @@ class Solution {
       
         }
 
-        return i == s.length();
+        if(i == s.length()){
+            return true;
+        }
+
+        return false;
 
         
 
