@@ -11,7 +11,7 @@ class Solution {
             }
 
             else if ((s.charAt(index) >= 'A' && s.charAt(index) <= 'Z')) {
-                arr[i] = (char)(s.charAt(index) - 'A'+ 'a');
+                arr[i] = (char)(s.charAt(index) + 32);
                 index++;
             }
 
