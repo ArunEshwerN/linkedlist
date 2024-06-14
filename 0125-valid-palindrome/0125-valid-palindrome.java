@@ -10,12 +10,12 @@ class Solution {
                 break;
             }
 
-            else if ((s.charAt(index) >= 'A' && s.charAt(index) <= 'Z')) {
+            else if ((s.charAt(index) >= 65 && s.charAt(index) <= 90)) {
                 arr[i] = (char)(s.charAt(index) + 32);
                 index++;
             }
 
-            else if ((s.charAt(index) >= 'a' && s.charAt(index) <= 'z')) {
+            else if ((s.charAt(index) >= 97 && s.charAt(index) <= 122)) {
                 arr[i] = s.charAt(index);
                 index++;
             }
