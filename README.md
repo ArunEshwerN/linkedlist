@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ArunEshwerN/linkedlist/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0908-middle-of-the-linked-list) |
 # Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ArunEshwerN/linkedlist/tree/master/0125-valid-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunEshwerN/linkedlist/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 # Simulation
 |  |
