@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArunEshwerN/linkedlist/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/ArunEshwerN/linkedlist/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0387-first-unique-character-in-a-string) |
 # Sorting
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArunEshwerN/linkedlist/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0812-rotate-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0812-rotate-string) |
 # Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArunEshwerN/linkedlist/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Prefix Sum
 |  |
