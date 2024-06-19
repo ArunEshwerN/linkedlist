@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ArunEshwerN/linkedlist/tree/master/0162-find-peak-element) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArunEshwerN/linkedlist/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunEshwerN/linkedlist/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunEshwerN/linkedlist/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunEshwerN/linkedlist/tree/master/1370-count-number-of-nice-subarrays) |
 # Backtracking
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunEshwerN/linkedlist/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArunEshwerN/linkedlist/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunEshwerN/linkedlist/tree/master/1370-count-number-of-nice-subarrays) |
 # Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ArunEshwerN/linkedlist/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArunEshwerN/linkedlist/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunEshwerN/linkedlist/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunEshwerN/linkedlist/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Prefix Sum
 |  |
