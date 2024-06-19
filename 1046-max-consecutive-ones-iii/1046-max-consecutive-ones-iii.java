@@ -9,14 +9,24 @@ class Solution {
             if (nums[r] == 0){
                 zeroes++;
             }
-            while (zeroes>k){
+            // while (zeroes>k){
+            //     if (nums[l] == 0){
+            //         zeroes--;
+            //     }
+            //     l++;
+            // }
+            if (zeroes > k){
+                
                 if (nums[l] == 0){
                     zeroes--;
                 }
+                r++;
                 l++;
             }
+            else{
             maxlen = Math.max(maxlen, (r - l + 1));
             r++;
+            }
         }
 
         return maxlen;
