@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ArunEshwerN/linkedlist/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ArunEshwerN/linkedlist/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/ArunEshwerN/linkedlist/tree/master/0162-find-peak-element) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Binary Search
 |  |
 | ------- |
@@ -92,3 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0812-rotate-string) |
+# Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
