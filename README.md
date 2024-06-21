@@ -78,9 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ArunEshwerN/linkedlist/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ArunEshwerN/linkedlist/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArunEshwerN/linkedlist/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ArunEshwerN/linkedlist/tree/master/0131-palindrome-partitioning) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ArunEshwerN/linkedlist/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/ArunEshwerN/linkedlist/tree/master/0392-is-subsequence) |
 # Hash Table
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArunEshwerN/linkedlist/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/ArunEshwerN/linkedlist/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunEshwerN/linkedlist/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArunEshwerN/linkedlist/tree/master/1460-number-of-substrings-containing-all-three-characters) |
