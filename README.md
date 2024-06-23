@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ArunEshwerN/linkedlist/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ArunEshwerN/linkedlist/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunEshwerN/linkedlist/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 # Two Pointers
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArunEshwerN/linkedlist/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArunEshwerN/linkedlist/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ArunEshwerN/linkedlist/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/ArunEshwerN/linkedlist/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArunEshwerN/linkedlist/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0908-middle-of-the-linked-list) |
@@ -135,3 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ArunEshwerN/linkedlist/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunEshwerN/linkedlist/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ArunEshwerN/linkedlist/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ArunEshwerN/linkedlist/tree/master/0234-palindrome-linked-list) |
