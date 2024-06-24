@@ -14,7 +14,7 @@ class Solution {
         ListNode t2 = l2;
         int sum = 0;
         int carry = 0;
-        ListNode dummynode = new ListNode();
+        ListNode dummynode = new ListNode(); // A node not a pointer!
         ListNode current = dummynode;
 
         while (t1 != null || t2 != null){
@@ -29,11 +29,13 @@ class Solution {
                 sum = sum + t2.val;
             }
 
-            // sum = sum%10; // Wrong
+            
 
             carry = sum/10;
 
-            ListNode newnode = new ListNode(sum%10, null);
+            sum = sum%10; // Wrong
+
+            ListNode newnode = new ListNode(sum, null);
 
             current.next = newnode;
 
