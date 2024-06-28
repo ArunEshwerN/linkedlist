@@ -15,7 +15,7 @@ class Solution {
                 st.push(']');
             }
 
-            else if (st.isEmpty() || st.pop() != s.charAt(i)){
+            else if (st.isEmpty() == true || st.pop() != s.charAt(i)){
                 return false;
             }
 
