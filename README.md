@@ -176,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ArunEshwerN/linkedlist/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ArunEshwerN/linkedlist/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ArunEshwerN/linkedlist/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ArunEshwerN/linkedlist/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
